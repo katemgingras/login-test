@@ -1,0 +1,22 @@
+{
+  "name": "login-test",
+  "version": "1.0.0",
+  "description": "Using Cypress to test a login page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katemgingras/login-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katemgingras/login-test/issues"
+  },
+  "homepage": "https://github.com/katemgingras/login-test#readme",
+  "dependencies": {
+    "cypress": "^14.1.0"
+  }
+}
